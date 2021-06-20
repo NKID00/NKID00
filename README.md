@@ -12,4 +12,4 @@ Learning ![JavaScript](https://img.shields.io/badge/-Rust-ff7a9e?logo=Rust&logoC
 
 Feel free to pronounce "NKID00" in any way. However, calling me by my nickname "NK" is preferred to avoid unnecessary tangling with the pronunciation.
 
-I really enjoy watching animes. Check out [![my Moegirlpedia user page](https://img.shields.io/badge/-my%20Moegirlpedia%20user%20page-ff7a9e)](https://zh.moegirl.org.cn/User:NKID00) (Chinese version only) for further information about me.
+I really enjoy watching animes. Check out my [![Moegirlpedia](https://img.shields.io/badge/-Moegirlpedia-ff7a9e)](https://zh.moegirl.org.cn/User:NKID00) user page (Chinese version only) and my [![Twitter](https://img.shields.io/badge/-Twitter-ff7a9e?logo=Twitter&logoColor=ffffff)](https://twitter.com/NKID00) account for further information about me.
