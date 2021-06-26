@@ -8,7 +8,7 @@ Yes, I am simply yet another random student from a random high school located in
 
 ![Python](https://img.shields.io/badge/-Python-ff7a9e?style=flat-square&logo=python&logoColor=ffffff) is my favorite programming language. I can also code in ![C++](https://img.shields.io/badge/-C%2B%2B-ff7a9e?style=flat-square&logo=C%2B%2B&logoColor=ffffff), ![C♯](https://img.shields.io/badge/-C%20♯-ff7a9e?style=flat-square&logo=C%20Sharp&logoColor=ffffff) and a little bit of ![Java](https://img.shields.io/badge/-Java-ff7a9e?style=flat-square&logo=Java&logoColor=ffffff).
 
-Learning ![JavaScript](https://img.shields.io/badge/-Rust-ff7a9e?style=flat-square&logo=Rust&logoColor=ffffff). Perhaps I will ![JavaScript](https://img.shields.io/badge/-JavaScript-ff7a9e?style=flat-square&logo=JavaScript&logoColor=ffffff) one day.
+Learning ![JavaScript](https://img.shields.io/badge/-Rust-ff7a9e?style=flat-square&logo=Rust&logoColor=ffffff). Perhaps I will try ![JavaScript](https://img.shields.io/badge/-JavaScript-ff7a9e?style=flat-square&logo=JavaScript&logoColor=ffffff) one day.
 
 Feel free to pronounce "NKID00" in any way. However, calling me by my nickname "NK" is preferred to avoid unnecessary tangling with the pronunciation.
 
