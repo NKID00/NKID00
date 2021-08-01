@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>Learning</td>
-    <td><img src="https://img.shields.io/badge/-Rust-ff7a9e?style=flat-square&logo=Rust&logoColor=ffffff" alt="Rust" /></td>
+    <td><img src="https://img.shields.io/badge/-Rust-ff7a9e?style=flat-square&logo=Rust&logoColor=ffffff" alt="Rust" /> <img src="https://img.shields.io/badge/-Java-ff7a9e?style=flat-square&logo=Java&logoColor=ffffff" alt="Java" /></td>
   </tr>
   <tr>
     <td>More info</td>
