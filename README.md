@@ -1,8 +1,4 @@
-## Greetings from NKID00 - yet another random high school student.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NKID00&show_icons=true&title_color=ff7a9e&icon_color=777" alt="GitHub Stats" />
-
-**Sorry, but I have to focus on the Chinese-style high school courses on workdays. Issues, PRs, etc. will be reviewed on weekends.**
 
 <table>
   <tr>
@@ -19,11 +15,11 @@
   </tr>
 </table>
 
+**Issues, PRs, etc. will be reviewed on weekends since I have to focus on the Chinese-style high school courses on workdays.**
+
 P.S. The pronunciation of `NKID00` is always free/libre.
 
-好了刚放了那么多洋屁该进行一个家乡话的说了
-
-（刚才放的洋屁大意：工作日要上学没空回 issue 和 pr 和其他的）
+（刚才放的洋屁大意：工作日要上学没空回 issue 和 pr 和其他的，`NKID00` 这个名字你想怎么读怎么读）
 
 整活：
 
@@ -47,7 +43,7 @@ Minecraft：
 
 - [「Bangumi 所有动画平均分是多少？」](https://github.com/NKID00/BangumiAnimeDataset)
 
-不实用的样子：
+貌似不太实用的样子：
 
 - [预测 BTC（实际并不能预测到](https://github.com/NKID00/FutureCrypto)
 
