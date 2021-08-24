@@ -21,9 +21,13 @@ P.S. The pronunciation of `NKID00` is always free/libre.
 
 （上面的洋屁大意：工作日要上学没空回 issue 和 pr 和其他的，`NKID00` 这个名字你想怎么读怎么读）
 
-整活：
+整活（可能还稍微有点用？）：
 
 - [「草这个网络世界我真的太恨缩写了」->「www zg web世界wzd太恨sx了」](https://github.com/NKID00/jbhhsh)
+
+- [「萌娘百科上黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」](https://github.com/NKID00/moegirlpedia-category-search)
+
+- [「Bangumi 所有动画平均分是多少？」](https://github.com/NKID00/BangumiAnimeDataset)
 
 - [和朋友比算 24 点？把所有最佳解法都列出来看你怎么玩](https://github.com/NKID00/24Game)
 
@@ -39,12 +43,8 @@ Minecraft：
 
 - [将 bilibili 追番状态直接 cp 到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi)
 
-- [「萌娘百科上黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」](https://github.com/NKID00/moegirlpedia-category-search)
-
-- [「Bangumi 所有动画平均分是多少？」](https://github.com/NKID00/BangumiAnimeDataset)
-
-貌似不太实用的样子：
-
 - [预测 BTC（实际并不能预测到](https://github.com/NKID00/FutureCrypto)
 
 - [又一个普通的 KSP 模组制作教程](https://github.com/NKID00/GuideToKSPModMaking)
+
+剩下的就算放这也没人会看的吧，那就索性不放了！
