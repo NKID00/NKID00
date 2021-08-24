@@ -19,7 +19,7 @@
 
 P.S. The pronunciation of `NKID00` is always free/libre.
 
-（刚才放的洋屁大意：工作日要上学没空回 issue 和 pr 和其他的，`NKID00` 这个名字你想怎么读怎么读）
+（上面的洋屁大意：工作日要上学没空回 issue 和 pr 和其他的，`NKID00` 这个名字你想怎么读怎么读）
 
 整活：
 
