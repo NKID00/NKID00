@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>More info</td>
-    <td><a href="https://zh.moegirl.org.cn/User:NKID00"><img src="https://img.shields.io/badge/-Moegirlpedia-ff7a9e?style=flat-square" alt="Moegirlpedia" /></a> <a href="https://twitter.com/NKID00"><img src="https://img.shields.io/badge/-Twitter-ff7a9e?style=flat-square&logo=Twitter&logoColor=ffffff" alt="Twitter" /></td>
+    <td><a href="https://zh.moegirl.org.cn/User:NKID00"><img src="https://img.shields.io/badge/-萌娘百科-ff7a9e?style=flat-square" alt="Moegirlpedia" /></a> <a href="https://twitter.com/NKID00"><img src="https://img.shields.io/badge/-Twitter-ff7a9e?style=flat-square&logo=Twitter&logoColor=ffffff" alt="Twitter" /></td>
   </tr>
 </table>
 
