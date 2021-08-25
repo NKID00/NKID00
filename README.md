@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NKID00&show_icons=true&title_color=ff7a9e&icon_color=777" alt="GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NKID00&show_icons=true&include_all_commits=true&title_color=ff7a9e&icon_color=777" alt="GitHub Stats" />
 
 <table>
   <tr>
