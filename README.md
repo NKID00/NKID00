@@ -47,4 +47,4 @@ Minecraft：
 
 - [使用游戏外文件充当红石电脑的内存](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&logo=GitHub&color=f09199&labelColor=f09199&logoColor=ffffff)
 
-剩下的就算放这也没人会看的吧，那就索性不放了！
+剩下的就算放这也没人会看的吧，那就不放了~
