@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>Using</td>
-    <td><img src="https://img.shields.io/badge/-Python-f09199?style=flat-square&logo=python&logoColor=ffffff" alt="Python" /> <img src="https://img.shields.io/badge/-C%2B%2B-f09199?style=flat-square&logo=C%2B%2B&logoColor=ffffff" alt="C++" /> <img src="https://img.shields.io/badge/-C♯-f09199?style=flat-square&logo=C%20Sharp&logoColor=ffffff" alt="C♯" /><br /><img src="https://img.shields.io/badge/-GNU%2FLinux-f09199?style=flat-square&logo=Linux&logoColor=ffffff" alt="GNU/Linux" /> <img src="https://img.shields.io/badge/-KDE-f09199?style=flat-square&logo=KDE&logoColor=ffffff" alt="KDE" /><br /><img src="https://img.shields.io/badge/-Firefox-f09199?style=flat-square&logo=Firefox&logoColor=ffffff" alt="Firefox" /></td>
+    <td><img src="https://img.shields.io/badge/-Python-f09199?style=flat-square&logo=python&logoColor=ffffff" alt="Python" /> <img src="https://img.shields.io/badge/-C%2B%2B-f09199?style=flat-square&logo=C%2B%2B&logoColor=ffffff" alt="C++" /> <img src="https://img.shields.io/badge/-C♯-f09199?style=flat-square&logo=C%20Sharp&logoColor=ffffff" alt="C♯" /><br /><img src="https://img.shields.io/badge/-GNU%2FLinux-f09199?style=flat-square&logo=Linux&logoColor=ffffff" alt="GNU/Linux" /> <img src="https://img.shields.io/badge/-KDE-f09199?style=flat-square&logo=KDE&logoColor=ffffff" alt="KDE" /><br /><img src="https://img.shields.io/badge/-VS%20Code-f09199?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff" alt="VS Code" /> <img src="https://img.shields.io/badge/-Firefox-f09199?style=flat-square&logo=Firefox&logoColor=ffffff" alt="Firefox" /></td>
   </tr>
   <tr>
     <td>Learning</td>
