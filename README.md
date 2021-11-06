@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-**Issues, PRs, etc. will be reviewed on weekends since I have to focus on the Chinese-style high school courses on workdays.**
+**Issues, PRs, etc. will be reviewed on weekends since I have to focus on preparing for the Gaokao on workdays.**
 
 P.S. The pronunciation of `NKID00` is always free/libre.
 
