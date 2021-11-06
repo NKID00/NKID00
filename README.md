@@ -17,8 +17,25 @@
 
 **Issues, PRs, etc. will be reviewed on weekends since I have to focus on preparing for the Gaokao on workdays.**
 
-P.S. The pronunciation of `NKID00` is always free/libre.
+P.S. The pronunciation of `NKID00` is always free (as in freedom).
 
+- [同步 bilibili 追番状态及进度到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi) ![](https://img.shields.io/github/stars/wopub/Bilibili2Bangumi?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- [riscv-gnu-toolchain 的多平台自动化构建](https://github.com/NKID00/riscv-gnu-toolchain-builds) ![](https://img.shields.io/github/stars/NKID00/riscv-gnu-toolchain-builds?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+<!---
+- [预测 BTC（实际并不能预测到](https://github.com/NKID00/FutureCrypto) ![](https://img.shields.io/github/stars/NKID00/FutureCrypto?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- [又一个普通的 KSP 模组制作教程](https://github.com/NKID00/GuideToKSPModMaking) ![](https://img.shields.io/github/stars/NKID00/GuideToKSPModMaking?style=flat-square&label=★&color=f09199&labelColor=f09199)
+--->
+
+Minecraft：
+
+- [兼容 1.17 的自定义选择框模组](https://github.com/NKID00/CustomSelectionBox-New) ![](https://img.shields.io/github/stars/NKID00/CustomSelectionBox-New?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- [使用游戏外文件充当红石电脑的内存](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+<!---
 整活：
 
 - [「萌娘百科上黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」](https://github.com/NKID00/moegirlpedia-category-search) ![](https://img.shields.io/github/stars/NKID00/moegirlpedia-category-search?style=flat-square&label=★&color=f09199&labelColor=f09199)
@@ -30,19 +47,4 @@ P.S. The pronunciation of `NKID00` is always free/libre.
 - [「草这个网络世界我真的太恨缩写了」->「www zg web世界wzd太恨sx了」](https://github.com/NKID00/jbhhsh) ![](https://img.shields.io/github/stars/NKID00/jbhhsh?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 - [和朋友比算 24 点？把所有最佳解法都列出来看你怎么玩](https://github.com/NKID00/24Game) ![](https://img.shields.io/github/stars/NKID00/24Game?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-实用：
-
-- [将 bilibili 追番状态直接 cp 到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi) ![](https://img.shields.io/github/stars/wopub/Bilibili2Bangumi?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-- [预测 BTC（实际并不能预测到](https://github.com/NKID00/FutureCrypto) ![](https://img.shields.io/github/stars/NKID00/FutureCrypto?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-- [又一个普通的 KSP 模组制作教程](https://github.com/NKID00/GuideToKSPModMaking) ![](https://img.shields.io/github/stars/NKID00/GuideToKSPModMaking?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-Minecraft：
-
-- [兼容 1.17 的自定义选择框模组](https://github.com/NKID00/CustomSelectionBox-New) ![](https://img.shields.io/github/stars/NKID00/CustomSelectionBox-New?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-- [使用游戏外文件充当红石电脑的内存](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-差不多就是这样了~
+--->
