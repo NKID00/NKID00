@@ -19,9 +19,7 @@
 
 P.S. The pronunciation of `NKID00` is always free/libre.
 
-（上面的洋屁大意：工作日要上学没空回 issue 和 pr 和其他的，`NKID00` 这个名字你想怎么读怎么读）
-
-整活（可能还稍微有点用？）：
+整活：
 
 - [「萌娘百科上黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」](https://github.com/NKID00/moegirlpedia-category-search) ![](https://img.shields.io/github/stars/NKID00/moegirlpedia-category-search?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
