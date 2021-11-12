@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>More info</td>
-    <td><a href="https://twitter.com/NKID00"><img src="https://img.shields.io/badge/-Twitter-f09199?style=flat-square&logo=Twitter&logoColor=ffffff" alt="Twitter" /> <a href="https://zh.moegirl.org.cn/User:NKID00"><img src="https://img.shields.io/badge/-萌娘百科用户页-f09199?style=flat-square" alt="Moegirlpedia user page" /></a></td>
+    <td><a href="https://twitter.com/NKID00"><img src="https://img.shields.io/badge/-Twitter-f09199?style=flat-square&logo=Twitter&logoColor=ffffff" alt="Twitter" /> <a href="https://t.me/NKID00"><img src="https://img.shields.io/badge/-Telegram-f09199?style=flat-square&logo=Telegram&logoColor=ffffff" alt="Twitter" /> <a href="https://zh.moegirl.org.cn/User:NKID00"><img src="https://img.shields.io/badge/-萌娘百科用户页-f09199?style=flat-square" alt="Moegirlpedia user page" /></a></td>
   </tr>
   <tr>
     <td>Abandoned<br />(for now)</td>
