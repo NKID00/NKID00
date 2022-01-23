@@ -1,4 +1,4 @@
-### Greetings from NKID00 - yet another random free (as in freedom) software enthusiast
+### Greetings from NKID00 - yet another random free software enthusiast
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NKID00&show_icons=true&title_color=f09199&icon_color=777" alt="GitHub Stats" />
 
