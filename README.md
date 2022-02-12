@@ -43,6 +43,8 @@ Minecraft：
 
 - [兼容 1.17 的自定义选择框模组](https://github.com/NKID00/CustomSelectionBox-New) ![](https://img.shields.io/github/stars/NKID00/CustomSelectionBox-New?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
+- 期刊：[红石数电评论](https://github.com/ARS-MC/RRDC)
+
 - [使用游戏外文件充当红石电脑的内存](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 <!---
