@@ -41,7 +41,7 @@ P.S. The pronunciation of `NKID00` is always free (as in freedom).
 
 Minecraft：
 
-- [兼容 1.17 的自定义选择框模组](https://github.com/NKID00/CustomSelectionBox-New) ![](https://img.shields.io/github/stars/NKID00/CustomSelectionBox-New?style=flat-square&label=★&color=f09199&labelColor=f09199)
+- [兼容 1.17 - 1.18 的自定义选择框模组](https://github.com/NKID00/CustomSelectionBox-New) ![](https://img.shields.io/github/stars/NKID00/CustomSelectionBox-New?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 - 期刊：[红石数电评论](https://github.com/ARS-MC/RRDC) ![](https://img.shields.io/github/stars/ARS-MC/RRDC?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
