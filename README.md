@@ -21,13 +21,13 @@
   </tr>-->
 </table>
 
-**Issues, pull requests, etc. will be reviewed on weekends since I have to focus on preparing for the Gaokao on workdays.**
+<!-- **Issues, pull requests, etc. will be reviewed on weekends since I have to focus on preparing for the Gaokao on workdays.** -->
 
 P.S. The pronunciation of `NKID00` is always free (as in freedom).
 
 ---
 
-**Issues、pull requests 等只会在周末看，工作日要上学（高三）。**
+<!-- **Issues、pull requests 等只会在周末看，工作日要上学（高三）。** -->
 
 - [同步 bilibili 追番状态及进度到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi) ![](https://img.shields.io/github/stars/wopub/Bilibili2Bangumi?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
