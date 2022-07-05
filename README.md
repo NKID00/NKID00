@@ -27,6 +27,22 @@ P.S. The pronunciation of `NKID00` is always free (as in freedom).
 
 ---
 
+5D Chess
+
+- [Network Protocol Analysis](https://github.com/NKID00/5DChessProtocolAnalysis) ![](https://img.shields.io/github/stars/NKID00/5DChessProtocolAnalysis?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- [Server Address Modifier](https://github.com/NKID00/5DChessServerAddressModifier) ![](https://img.shields.io/github/stars/NKID00/5DChessServerAddressModifier?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- [Cross-platform partial port of FiveDChessDataInterface](https://github.com/NKID00/FiveDChessDataInterfaceCrossplatform) ![](https://img.shields.io/github/stars/NKID00/FiveDChessDataInterfaceCrossplatform?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- [Cross-platform partial port of 5D-PGN-Recorder](https://github.com/NKID00/5DChessRecorderCrossplatform) ![](https://img.shields.io/github/stars/NKID00/5DChessRecorderCrossplatform?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+---
+
+- [riscv-gnu-toolchain auto-builds for GNU/Linux and Windows](https://github.com/NKID00/riscv-gnu-toolchain-builds) ![](https://img.shields.io/github/stars/NKID00/riscv-gnu-toolchain-builds?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+---
+
 <!-- **Issues、pull requests 等只会在周末看，工作日要上学（高三）。** -->
 
 - [同步 bilibili 追番状态及进度到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi) ![](https://img.shields.io/github/stars/wopub/Bilibili2Bangumi?style=flat-square&label=★&color=f09199&labelColor=f09199)
@@ -39,7 +55,7 @@ P.S. The pronunciation of `NKID00` is always free (as in freedom).
 - [又一个普通的 KSP 模组制作教程](https://github.com/NKID00/GuideToKSPModMaking) ![](https://img.shields.io/github/stars/NKID00/GuideToKSPModMaking?style=flat-square&label=★&color=f09199&labelColor=f09199)
 --->
 
-Minecraft：
+Minecraft
 
 - [兼容 1.17 - 1.18 的自定义选择框模组](https://github.com/NKID00/CustomSelectionBox-New) ![](https://img.shields.io/github/stars/NKID00/CustomSelectionBox-New?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
