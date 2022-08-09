@@ -41,11 +41,7 @@ P.S. The pronunciation of `NKID00` is always free (as in freedom).
 
 --->
 
----
-
 <!-- **Issues、pull requests 等只会在周末看，工作日要上学（高三）。** -->
-
-- [同步 bilibili 追番状态及进度到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi) ![](https://img.shields.io/github/stars/wopub/Bilibili2Bangumi?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 <!--
 
@@ -67,9 +63,15 @@ Minecraft
 
 --->
 
-- 期刊：[红石数电评论](https://github.com/ARS-MC/RRDC) ![](https://img.shields.io/github/stars/ARS-MC/RRDC?style=flat-square&label=★&color=f09199&labelColor=f09199)
+- [u00a7 - Brings back the good old formatting codes. ](https://github.com/NKID00/u00a7) ![](https://img.shields.io/github/stars/NKID00/u00a7?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
-- [使用游戏外文件充当红石电脑的内存](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
+- [redstone-computer-utilities - Simple debug tools for redstone computers. ](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+---
+
+- [同步 bilibili 追番状态及进度到 Bangumi 上](https://github.com/wopub/Bilibili2Bangumi) ![](https://img.shields.io/github/stars/wopub/Bilibili2Bangumi?style=flat-square&label=★&color=f09199&labelColor=f09199)
+
+- 期刊：[红石数电评论](https://github.com/ARS-MC/RRDC) ![](https://img.shields.io/github/stars/ARS-MC/RRDC?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 <!---
 整活：
