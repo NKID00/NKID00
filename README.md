@@ -63,9 +63,9 @@ Minecraft
 
 --->
 
-- [u00a7 - Brings back the good old formatting codes. ](https://github.com/NKID00/u00a7) ![](https://img.shields.io/github/stars/NKID00/u00a7?style=flat-square&label=★&color=f09199&labelColor=f09199)
+- [u00a7 - Brings back the good old formatting codes.](https://github.com/NKID00/u00a7) ![](https://img.shields.io/github/stars/NKID00/u00a7?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
-- [redstone-computer-utilities - Simple debug tools for redstone computers. ](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
+- [Redstone Computer Utilities - Lightweight and Modular Redstone Computer Debugging Tools.](https://github.com/NKID00/redstone-computer-utilities) ![](https://img.shields.io/github/stars/NKID00/redstone-computer-utilities?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 ---
 
