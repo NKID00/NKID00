@@ -23,17 +23,15 @@ P.S. The pronunciation of `NKID00` is always free (as in freedom).
 
 ---
 
-5D Chess
+- [5D Chess Network Protocol Analysis](https://github.com/NKID00/5DChessProtocolAnalysis) ![](https://img.shields.io/github/stars/NKID00/5DChessProtocolAnalysis?style=flat-square&label=★&color=f09199&labelColor=f09199) (including a private server written in Rust)
 
-- [Network Protocol Analysis](https://github.com/NKID00/5DChessProtocolAnalysis) ![](https://img.shields.io/github/stars/NKID00/5DChessProtocolAnalysis?style=flat-square&label=★&color=f09199&labelColor=f09199) (including a private server written in Rust)
+<!--
 
 - [Server Address Modifier](https://github.com/NKID00/5DChessServerAddressModifier) ![](https://img.shields.io/github/stars/NKID00/5DChessServerAddressModifier?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 - [Cross-platform partial port of FiveDChessDataInterface](https://github.com/NKID00/FiveDChessDataInterfaceCrossplatform) ![](https://img.shields.io/github/stars/NKID00/FiveDChessDataInterfaceCrossplatform?style=flat-square&label=★&color=f09199&labelColor=f09199)
 
 - [Cross-platform partial port of 5D-PGN-Recorder](https://github.com/NKID00/5DChessRecorderCrossplatform) ![](https://img.shields.io/github/stars/NKID00/5DChessRecorderCrossplatform?style=flat-square&label=★&color=f09199&labelColor=f09199)
-
-<!--
 
 ---
 
