@@ -12,7 +12,7 @@
     <td><img src="https://img.shields.io/badge/-Qt-f09199?style=flat-square&logo=Qt&logoColor=ffffff" alt="Qt" /> <img src="https://img.shields.io/badge/-JavaScript-f09199?style=flat-square&logo=JavaScript&logoColor=ffffff" alt="JavaScript" /></td>
   </tr> -->
   <tr>
-    <td>More info</td>
+    <td>Contact</td>
     <td> <!-- <a href="https://twitter.com/NKID00"><img src="https://img.shields.io/badge/-Twitter-f09199?style=flat-square&logo=Twitter&logoColor=ffffff" alt="Twitter" /></a> --> <a href="https://t.me/NKID00"><img src="https://img.shields.io/badge/-@NKID00-f09199?style=flat-square&logo=Telegram&logoColor=ffffff" alt="Twitter" /></a><br /><a href="https://discord.com/users/840602347696816128"><img src="https://img.shields.io/badge/-@NKID00-f09199?style=flat-square&logo=Discord&logoColor=ffffff" alt="Discord" /></a><!--<br /><a href="https://zh.moegirl.org.cn/User:NKID00"><img src="https://img.shields.io/badge/-萌娘百科用户页-f09199?style=flat-square" alt="Moegirlpedia user page" /></a>---></td>
   </tr>
 </table>
