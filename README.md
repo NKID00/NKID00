@@ -1,25 +1,6 @@
-### Greetings from NKID00 - yet another random free software enthusiast
+### Migrating to Codeberg: https://codeberg.org/NKID00
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NKID00&show_icons=true&title_color=f09199&icon_color=777&include_all_commits=true" alt="GitHub Stats" />
-
-<table>
-  <tr>
-    <td>Using</td>
-    <td><img src="https://img.shields.io/badge/-Rust-f09199?style=flat-square&logo=Rust&logoColor=ffffff" alt="Rust" /> <img src="https://img.shields.io/badge/-Python-f09199?style=flat-square&logo=python&logoColor=ffffff" alt="Python" /> <img src="https://img.shields.io/badge/-Java-f09199?style=flat-square&logo=OpenJDK&logoColor=ffffff" alt="Java" /><br /><img src="https://img.shields.io/badge/-C♯-f09199?style=flat-square&logo=C%20Sharp&logoColor=ffffff" alt="C♯" /> <img src="https://img.shields.io/badge/-C%2B%2B-f09199?style=flat-square&logo=C%2B%2B&logoColor=ffffff" alt="C++" /> <img src="https://img.shields.io/badge/-GNU%2FLinux-f09199?style=flat-square&logo=Linux&logoColor=ffffff" alt="GNU/Linux" /><br /><img src="https://img.shields.io/badge/-KDE-f09199?style=flat-square&logo=KDE&logoColor=ffffff" alt="KDE" /> <img src="https://img.shields.io/badge/-VS%20Code-f09199?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff" alt="VS Code" /> <img src="https://img.shields.io/badge/-Firefox-f09199?style=flat-square&logo=Firefox&logoColor=ffffff" alt="Firefox" /></td>
-  </tr>
-<!--   <tr>
-    <td>Learning</td>
-    <td><img src="https://img.shields.io/badge/-Qt-f09199?style=flat-square&logo=Qt&logoColor=ffffff" alt="Qt" /> <img src="https://img.shields.io/badge/-JavaScript-f09199?style=flat-square&logo=JavaScript&logoColor=ffffff" alt="JavaScript" /></td>
-  </tr> -->
-  <tr>
-    <td>Contact</td>
-    <td> <!-- <a href="https://twitter.com/NKID00"><img src="https://img.shields.io/badge/-Twitter-f09199?style=flat-square&logo=Twitter&logoColor=ffffff" alt="Twitter" /></a> --> <a href="https://t.me/NKID00"><img src="https://img.shields.io/badge/-@NKID00-f09199?style=flat-square&logo=Telegram&logoColor=ffffff" alt="Twitter" /></a><br /><a href="https://discord.com/users/840602347696816128"><img src="https://img.shields.io/badge/-@NKID00-f09199?style=flat-square&logo=Discord&logoColor=ffffff" alt="Discord" /></a><!--<br /><a href="https://zh.moegirl.org.cn/User:NKID00"><img src="https://img.shields.io/badge/-萌娘百科用户页-f09199?style=flat-square" alt="Moegirlpedia user page" /></a>---></td>
-  </tr>
-</table>
-
-<!-- **Issues, pull requests, etc. will be reviewed on weekends since I have to focus on preparing for the Gaokao on workdays.** -->
-
-P.S. The pronunciation of `NKID00` is always free (as in freedom).
+<img src="https://github-readme-stats.vercel.app/api?username=NKID00&show_icons=true&title_color=f09199&icon_color=777&include_all_commits=true" alt="GitHub Stats" />
 
 ---
 
